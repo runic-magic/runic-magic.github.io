@@ -482,4 +482,5 @@ code.html span.doctype {
   color: #D7FF80;
 }
 
+@font-face { font-family: BTC; src: url(BTC.ttf); }
 /* @end */
